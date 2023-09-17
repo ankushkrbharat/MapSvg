@@ -45,7 +45,7 @@ const Header = () => {
 <Link to={'/'} className="hover:scale-125 m-4 transition-all ease-in-out">❤️ About</Link>
 <button className="bg-black  text-white m-3 px-8 py-3 text-4xl  border-2 border-black hover:bg-white hover:text-black transition-all ease-in">✈️ Start</button>
 
-</div></div>):""}
+</div><hr className="border border-black mx-10 mt-1 "/></div>):""}
     </div>
   )
 }
